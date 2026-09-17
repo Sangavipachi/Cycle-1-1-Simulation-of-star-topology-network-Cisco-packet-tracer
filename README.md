@@ -1,7 +1,9 @@
 # Cycle-1-----1-Simulation-of-star-topology-network
 # 🖧 Network Simulation using Cisco Packet Tracer
-## NAME : NITHIYASREE K
-## REG : 212223060188
+## NAME : SANGAVI P
+## REG : 212222060242
+
+
 
 ## 🎯 AIM
 To simulate a network with topology using Cisco Packet Tracer and verify connectivity between computers using ICMP.
